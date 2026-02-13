@@ -16,7 +16,7 @@
 
 ### 👨‍💻 Sobre mí
 
-📍 **Ubicación:** Talcahuano, Chile (Con disponibilidad para traslado a Santiago).
+📍 **Ubicación:** Santiago.
 
 Soy un **Ingeniero en Informática** titulado de **Duoc UC**, apasionado por transformar datos en decisiones. Me defino como un perfil híbrido: disfruto tanto la construcción de pipelines y transformación de datos (**Data Engineering**) como el análisis visual y el storytelling (**Data Analysis/BI**).
 
